@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "breakout")(type "Legacy")(uri "${KIPRJMOD}/breakout.lib")(options "")(descr ""))
+  (lib (name "fade_candy_cat5-rescue")(type "KiCad")(uri "${KIPRJMOD}/fade_candy_cat5-rescue.kicad_sym")(options "")(descr ""))
+)
